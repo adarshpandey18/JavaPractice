@@ -11,7 +11,7 @@ public class InheritanceConstructor {
         System.out.println("Base Class Constructor");
     }
     
-}g 
+}
 
  class Derive extends Base {
     Derive() {
