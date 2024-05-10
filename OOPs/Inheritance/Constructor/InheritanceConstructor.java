@@ -1,8 +1,9 @@
-package JavaPractice.OOPs.Constructor;
+package JavaPractice.OOPs.Inheritance.Constructor;
 
 public class InheritanceConstructor {
     public static void main(String[] args) {
         Derive d = new Derive();
+
     }
     
 }
