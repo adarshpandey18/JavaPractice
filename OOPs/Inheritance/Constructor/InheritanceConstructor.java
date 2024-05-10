@@ -1,5 +1,7 @@
 package JavaPractice.OOPs.Inheritance.Constructor;
 
+import java.lang.annotation.Documented;
+
 public class InheritanceConstructor {
     public static void main(String[] args) {
         Derive d = new Derive();
@@ -18,4 +20,5 @@ public class InheritanceConstructor {
     Derive() {
         System.out.println("Derive Class Constructor");
     }
+
 }
